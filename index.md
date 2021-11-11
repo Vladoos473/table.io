@@ -1,3 +1,6 @@
+theme:jekyll-theme-minimal
+title:table homepage
+deskription:Bookmark this to keep an eye on my project updates!
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Vladoos473/table.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
